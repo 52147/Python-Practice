@@ -10,7 +10,7 @@
 
 # dictionay with different types of keys and values
 ex_dict = {
-    'name': 'Alice',            #string key, string value
+    'name': 'Alice',            # string key, string value
     42: 'The answer',           # integer key, string value
     3.14:[1, 2, 3],             # float key, list value
     (1, 2): {'x':10, 'y':20},   # tuple key, dictionary value
