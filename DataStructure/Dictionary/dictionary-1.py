@@ -71,3 +71,5 @@ for value in my_dict.values():
 # iterating over key-value pairs
 for key, value in my_dict.items():
     print(key, value)
+
+# 6. dictionary methods
